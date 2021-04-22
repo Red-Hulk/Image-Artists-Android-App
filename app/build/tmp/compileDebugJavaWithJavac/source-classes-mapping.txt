@@ -1,0 +1,10 @@
+com/example/oefenen/MainActivity.java
+ com.example.oefenen.MainActivity
+com/example/oefenen/ContactRecViewAdapter.java
+ com.example.oefenen.ContactRecViewAdapter
+ com.example.oefenen.ContactRecViewAdapter$1
+ com.example.oefenen.ContactRecViewAdapter$ViewHolder
+com/example/oefenen/Contact.java
+ com.example.oefenen.Contact
+com/example/oefenen/BuildConfig.java
+ com.example.oefenen.BuildConfig
